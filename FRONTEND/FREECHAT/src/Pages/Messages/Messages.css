@@ -1,0 +1,12 @@
+.scroller
+{
+    height : calc(100vh - 4rem);
+}
+.users
+{
+    height: calc(100% - 3rem);
+}
+.messages
+{
+    height: calc(100% - 2.5rem);
+}
